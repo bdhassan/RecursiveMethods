@@ -10,3 +10,5 @@ isPalindrome: to decide whether a string is a palindrome or not. Will ignore cas
 sum: to return the sum of the elements in an integer array
 
 frequency: to return how many times an integer appears in an integer array
+
+
